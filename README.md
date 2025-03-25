@@ -1,7 +1,5 @@
 # Vinícius Krasnievicz
 
-![Banner](https://via.placeholder.com/800x200.png?text=Vinícius+Krasnievicz+Portfolio)
-
 Mathematician (UFR, 2023) and Machine Learning specialist passionate about solving complex problems with data and code. I work with Python, Rust, and JavaScript to build scalable, innovative solutions.
 
 ## About Me
